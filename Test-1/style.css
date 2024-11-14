@@ -1,0 +1,11 @@
+.color_block {
+  width: 150px;
+  height: 150px;
+  margin: 0 auto;
+  background-color: rgb(255, 241, 83);
+  cursor: pointer;
+}
+
+.color_new {
+  background-color: rgb(255, 59, 59);
+}
